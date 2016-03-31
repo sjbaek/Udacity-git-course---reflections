@@ -6,3 +6,8 @@ A: 다른 사람들과 작업을 공유할때, 혹은 다른 컴퓨터에서 작
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A: Pushing to GitHub is considered to be a 'commit' so it doesn't have to be current all the time. Only whenever needed.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A:
+
