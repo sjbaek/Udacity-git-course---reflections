@@ -9,7 +9,7 @@ A: Pushing to GitHub is considered to be a 'commit' so it doesn't have to be cur
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-A:
+A:fork is to bring other people's repository to your repository with a possibility of updating the original documents through pull request. Clone is to copy to your repository. Branch is happening when you commit a new change to your master.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
