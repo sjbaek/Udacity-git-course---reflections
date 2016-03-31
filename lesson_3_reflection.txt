@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
+
+A: 다른 사람들과 작업을 공유할때, 혹은 다른 컴퓨터에서 작업한 것을 나중에 합칠때.
