@@ -5,6 +5,8 @@ A hidden folder .git is to be created
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+A: Staging area is where you 'gather' changes made from working directory before you commit the changes. Having the middle area let a user to group changes being made before it gets finalized and be committed.
+
 How can you use the staging area to make sure you have one commit per logical change?
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
