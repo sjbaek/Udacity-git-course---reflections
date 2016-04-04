@@ -21,4 +21,6 @@ A: visualization always help and makes it easier the origin of each branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+A: They both get updated with most recent changes.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
