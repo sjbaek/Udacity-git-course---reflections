@@ -6,7 +6,9 @@ What do you think are the pros and cons of manually choosing when to create a co
 A: I think manual commit is better as I can choose the point where I want to make commit and actually have record using git commit message.
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A: same reason above. Group commits into one at meaningful stops.
 
 How can you use the commands git log and git diff to view the history of files?
+A: Yes
 
 How might using version control make you more confident to make changes that could break something?
