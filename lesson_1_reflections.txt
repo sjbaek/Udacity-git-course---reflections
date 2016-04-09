@@ -12,3 +12,4 @@ How can you use the commands git log and git diff to view the history of files?
 A: Yes
 
 How might using version control make you more confident to make changes that could break something?
+A: Whenever you feel like you made an error, you can always go back to the status before you initiated the change.
