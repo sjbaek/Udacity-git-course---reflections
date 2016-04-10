@@ -1,4 +1,4 @@
-using diff does show different parts in both files, but identifying typos is another story.
+Using diff does show different parts in both files, but identifying typos is another story.
 Having easy access to older version makes a user efficiently go back when 
 he or she made a mistake in the current version.
 
