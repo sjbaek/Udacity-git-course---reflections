@@ -1,7 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A: git init
-A hidden folder .git is to be created
+A: git init, A hidden folder .git is to be created. It tells git to create version control for this folder and subfolders.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
