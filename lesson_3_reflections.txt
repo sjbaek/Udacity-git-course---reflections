@@ -20,4 +20,4 @@ A: Without Git, people would exchange files via emails or access the same file b
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-A: Maybe when testing something different?
+A: When testing something different from the main progress. Scenario simulation scripts or test-out scripts
