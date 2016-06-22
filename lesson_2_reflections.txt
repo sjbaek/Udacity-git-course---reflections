@@ -24,5 +24,5 @@ A: They both get updated with most recent changes.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 A: pros - compares different and tries to resolve on its own.
-   cons - manually delete some auto-generated Git messages in the file
+   cons - manually delete some auto-generated Git messages in the file.
 
